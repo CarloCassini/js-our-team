@@ -17,4 +17,4 @@ Organizzare i singoli membri in card/schede
 
 ##svolgimento milestone 0:
 
-- creo un array di oggetti con le info fornite dai docenti.
+creo un array di oggetti con le info fornite dai docenti. - creo un array, ogni elemento di questo array sarà un oggetto.
