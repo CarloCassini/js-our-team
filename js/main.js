@@ -1,5 +1,6 @@
 console.log("main ok");
 
+// creo un array di oggetti
 const teamMembers = [
   {
     name: "Wayne Barnett",
@@ -33,5 +34,12 @@ const teamMembers = [
   },
 ];
 
-console.log(teamMembers);
-console.log(teamMembers[0].role);
+// milestone 1 stampo su console
+for (let person in teamMembers) {
+  console.table(teamMembers[person]);
+
+  //   per vederli con il console log
+  console.log("nome: " + teamMembers[person].name);
+  console.log("ruolo: " + teamMembers[person].role);
+  console.log("url img: " + teamMembers[person].img);
+}

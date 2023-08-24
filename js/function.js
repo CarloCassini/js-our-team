@@ -1,1 +1,1 @@
-console.log("function  ok");
+// console.log("function  ok");
