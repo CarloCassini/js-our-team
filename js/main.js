@@ -53,13 +53,13 @@ function writeElements(container, element) {
 
   cella.innerHTML = `
 
-  <div class="card m-3" style="width: 18rem;">
-  <img src="./img/${element.img}" class="card-img-top" alt="...">
-  <div class="card-body text-center">
-    <h5 class="card-title">${element.name}</h5>
-    <p class="card-text">${element.role}</p>
+  <div class="card m-5" style="width: 18rem;">
+    <img src="./img/${element.img}" class="card-img-top" alt="...">
+     <div class="card-body text-center">
+     <h5 class="card-title">${element.name}</h5>
+     <p class="card-text">${element.role}</p>
+     </div>
   </div>
-</div>
   
   
   `;
