@@ -10,9 +10,9 @@ MILESTONE 1: (done)
 Stampare su console, per ogni membro del team, le informazioni di nome, ruolo e la stringa della foto
 MILESTONE 2:
 Stampare le stesse informazioni su DOM sottoforma di stringhe
-BONUS 1:
+BONUS 1: (done)
 Trasformare la stringa foto in una immagine effettiva
-BONUS 2:
+BONUS 2: (done)
 Organizzare i singoli membri in card/schede
 
 ##svolgimento milestone 0:
